@@ -55,4 +55,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or support, please contact Abhishek Tiwari at [Email](mailto:iamabhishek.tiwari23@gmail.com).
+For any questions or support, please contact me at [Email](mailto:iamabhishek.tiwari23@gmail.com).
