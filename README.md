@@ -21,7 +21,7 @@ A comprehensive hospital management system designed to streamline hospital opera
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Medicare-HMS.git
+   git clone https://github.com/iamabhish23/Medicare-HMS.git
    ```
 2. Navigate to the project directory:
    ```bash
